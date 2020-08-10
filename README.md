@@ -4,10 +4,10 @@
 
 Soy un Desarrollador Web Junior.
 
-Tengo conocimientos de HTML, CSS, JavaScript, programación en Java, Python, VBA (se hacer macros en Excel 😅) y bases de datos MySQL y PostgreSQL. Actualmente estoy estudiando desarrollo web en Platzi.
+Tengo conocimientos de HTML, CSS, JavaScript, programación en Java, Python, VBA (se hacer macros en Excel 😅) y bases de datos MySQL y PostgreSQL. Actualmente estoy estudiando desarrollo web en [Platzi](https://platzi.com).
 
 Mis proyectos más importantes los tengo aqui. Algunos de ellos los hice yo mismo, y otros los voy haciendo a medida que voy completando mis cursos.
-También tengo algunos proyectos pequeños en mi [CodePen](https://codepen.io/cristianiniguez)
+También tengo algunos proyectos pequeños en mi [CodePen](https://codepen.io/cristianiniguez).
 
 Tengo pasión por la tecnología y el software y mi objetivo es especializarme como desarrollador Frontend y hacer aplicaciones multiplataforma con tecnologia web 💪.
 
