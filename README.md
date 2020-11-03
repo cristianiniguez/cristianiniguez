@@ -2,22 +2,30 @@
 
 ## Hola 👋
 
-Soy un Desarrollador Web Junior.
+Soy un Desarrollador Web Junior con pasión por la tecnología y el software 👨‍💻.
 
-Tengo conocimientos de HTML, CSS, JavaScript, programación en Java, Python, VBA (se hacer macros en Excel 😅) y bases de datos MySQL y PostgreSQL. Actualmente estoy estudiando desarrollo web en [Platzi](https://platzi.com).
+Tengo conocimientos de:
+
+- HTML, CSS, JavaScript
+- Java, Python y un poco de C y VBA
+- Bases de datos MySQL, PostgreSQL, MongoDB y Firebase
+- Frameworks como React, Express y Electron
+
+Actualmente estoy estudiando desarrollo web en [Platzi](https://platzi.com) 🌱.
 
 Mis proyectos más importantes los tengo aqui. Algunos de ellos los hice yo mismo, y otros los voy haciendo a medida que voy completando mis cursos.
-También tengo algunos proyectos pequeños en mi [CodePen](https://codepen.io/cristianiniguez).
 
-Tengo pasión por la tecnología y el software y mi objetivo es especializarme como desarrollador Frontend y hacer aplicaciones multiplataforma con tecnologia web 💪.
+Mi objetivo es especializarme como Fullstack Developer y desarrollar aplicaciones multiplataforma con tecnologia web 💪.
 
-Estoy buscando trabajar como freelancer para mejorar mi protafolio. Si quieres que te ayude en algún proyecto no dudes en contactarme para ver si te puedo ayudar 💬.
+Estoy buscando trabajar como freelancer. Si quieres que te ayude en algún proyecto no dudes en contactarme 💬.
 
 ## Contacto
 
 [Mi Facebook](https://www.facebook.com/cristian.iniguez.56884/)
 
 [Mi LinkedIn](https://www.linkedin.com/in/cristian-iniguez/)
+
+[Mi página](https://cristianiniguez.github.io/)
 
 <!--
 **cristianiniguez/cristianiniguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
