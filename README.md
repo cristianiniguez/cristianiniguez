@@ -1,19 +1,23 @@
-# Cristian Iñiguez
+# Cristian Iñiguez - Web Developer
 
 ## Hola 👋
 
-Soy un Desarrollador Web Junior con pasión por la tecnología y el software 👨‍💻.
+Soy un Desarrollador Web con pasión por la tecnología y el software 👨‍💻.
 
 Tengo conocimientos de:
 
-- HTML, CSS, JavaScript
-- Java, Python y un poco de C y VBA
-- Bases de datos MySQL, PostgreSQL, MongoDB y Firebase
-- Frameworks como React, Express y Electron
+- <b style="color: #DD4B25">HTML</b>, <b style="color: #146EB0">CSS</b> y <b style="color: #EFD81D">JavaScript</b>
+- Frameworks como <b style="color: #00D1F7">React</b>, <b style="color: #606060">Express</b> y <b>Next</b>
+- Bases de datos <b style="color: #5A839D">MySQL</b>, <b style="color: #31648C">PostgreSQL</b>, <b style="color: #479848">MongoDB</b> y <b style="color: #FFA610">Firebase</b>
 
-Actualmente estoy estudiando desarrollo web en [Platzi](https://platzi.com) 🌱.
+Actualmente estoy estudiando desarrollo web (y otras cosas más) en <b>[Platzi](https://platzi.com)</b> 🌱. Puedes ver mi perfil [aquí](https://platzi.com/p/cristianiniguez/).
 
-Mis proyectos más importantes los tengo aqui. Algunos de ellos los hice yo mismo, y otros los voy haciendo a medida que voy completando mis cursos.
+Estos son mis proyectos más importantes. Algunos de ellos los hice yo mismo, y otros los voy haciendo a medida que voy completando mis cursos:
+- Tu Solucionario de Matemáticas [ [página](https://tu-solucionario-de-matematicas.web.app) | [repo](https://github.com/cristianiniguez/tu_solucionario_de_matematicas) ]
+- SaitoLab Inventory [ [repo](https://github.com/cristianiniguez/saitolab-inventory) ]
+- Platzi Web Challenge [ [página](https://cristianiniguez.github.io/platziwebchallenge) | [repo](https://github.com/cristianiniguez/platziwebchallenge) ]
+- SaitoLab Notes [ [página](https://saitolab-notes.vercel.app) | [repo](https://github.com/cristianiniguez/saitolab_notes) ]
+- Tu Solucionario de Programación [ [página](https://tusolucionariodeprogramacion.web.app) | [repo](https://github.com/cristianiniguez/tu_solucionario_de_programacion) ]
 
 Mi objetivo es especializarme como Fullstack Developer y desarrollar aplicaciones multiplataforma con tecnologia web 💪.
 
@@ -21,23 +25,8 @@ Estoy buscando trabajar como freelancer. Si quieres que te ayude en algún proye
 
 ## Contacto
 
-[Mi Facebook](https://www.facebook.com/cristian.iniguez.56884/)
+[Mi Facebook](https://www.facebook.com/cristian.iniguez.56884)
 
-[Mi LinkedIn](https://www.linkedin.com/in/cristian-iniguez/)
+[Mi LinkedIn](https://www.linkedin.com/in/cristian-iniguez)
 
-[Mi página](https://cristianiniguez.github.io/)
-
-<!--
-**cristianiniguez/cristianiniguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Mi página](https://cristianiniguez.github.io)
